@@ -5,9 +5,5 @@
 
 ---
 
-[![Outlook Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IanJabriel23@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:IanJabriel23@hotmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-jabriel-rodrigues-garcia-a478841a2/)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8FhVJU9Jm3HqE/giphy.gif" width="400px"/>
-</p>
