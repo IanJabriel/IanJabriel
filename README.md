@@ -5,5 +5,5 @@
 
 ---
 
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:IanJabriel23@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-808080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:IanJabriel23@hotmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-jabriel-rodrigues-garcia-a478841a2/)
