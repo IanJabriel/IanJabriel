@@ -1,5 +1,6 @@
 # Olá 👋
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IanJabriel/IanJabriel/output/pacman-contribution-graph-dark.svg">
